@@ -1,7 +1,6 @@
-# Hello
+# Hello! My name is Evelyn Wang 
 
-### My name is Evelyn Wang 
-# Information Systems @ University of Maryland <br>
+### Information Systems @ University of Maryland <br>
 Business Analytics Minor | ACES Honors Program | iTBT Fellow <br>
 - Expected Graduation 2028 <br>
 
