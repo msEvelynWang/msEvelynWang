@@ -5,9 +5,10 @@
 - Expected Graduation 2028 <br>
 
  ### Skills
- - Python <br>
  - Excel <br>
- - Linux/Unix <br>
+ - Power BI <br>
+ - SQL <br>
+ - Python <br>
  - Regular Expression <br>
  - Javascript <br>
  - HTML <br>
@@ -16,4 +17,6 @@
 - Violin <br>
 - Piano <br>
 - Art <br>
+- Lion Dancing <br>
+- Rock Climbing <br>
 
